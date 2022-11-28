@@ -1,0 +1,7 @@
+{
+    "editor.renderLineHighlight": "none", 
+    "workbench.colorCustomizations": 
+    {
+        "editor.lineHighkightBorder":  "#1e1e1e"
+    }
+}
