@@ -3,5 +3,12 @@
     "workbench.colorCustomizations": 
     {
         "editor.lineHighkightBorder":  "#1e1e1e"
+    },
+
+    "workbench.colorCustomizations": 
+    {
+        "editorError.foreground":   "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground":    "#00000000"
     }
 }
