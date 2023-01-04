@@ -9,5 +9,9 @@ print(a)
 b = np.ones((3, 2))
 print(b)
 
-d = np.ndarray((3, 3))
-print(d)
+c = np.ndarray((3, 3))
+print(c)
+
+print(type(a))
+print(type(b))
+print(type(c))
