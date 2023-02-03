@@ -12,3 +12,4 @@ print(mult_func('Good'))
 print_func('Hello')
 
 print_func(mult_func('50'))
+
